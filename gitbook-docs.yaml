@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Dashboard de TI de Addi
+  structure:
+    - type: section
+      key: documentacion
+      title: Documentación
+      path: documentacion
+      children:
+        - type: space
+          key: docs
+          title: Dashboard de TI de Addi
+          path: docs
+          default: true
+          content:
+            directory: ./
+            language: es
