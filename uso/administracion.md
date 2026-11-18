@@ -1,5 +1,5 @@
 ---
-description: El panel de administración: reloj, n8n, aprobadores, usuarios y auditoría.
+description: "El panel de administración: reloj, n8n, aprobadores, usuarios y auditoría."
 ---
 
 # Administración
